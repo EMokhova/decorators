@@ -1,0 +1,2 @@
+ 2021-10-31 18:46:51.180060, Функция avg_all_students c аргументами ([<__main__.Student object at 0x0000027B380C08E0>, <__main__.Student object at 0x0000027B380C07C0>], 'Python'), {}. Результат: 6.5 
+ 2021-10-31 18:47:11.242209, Функция avg_all_students c аргументами ([<__main__.Student object at 0x00000263D771F8E0>, <__main__.Student object at 0x00000263D771F7C0>], 'Python'), {}. Результат: 6.5 

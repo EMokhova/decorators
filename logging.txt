@@ -1,0 +1,2 @@
+ 2021-10-31 18:46:51.180060, Функция avg_all_lecturer c аргументами ([<__main__.Lecturer object at 0x0000027B380C0610>, <__main__.Lecturer object at 0x0000027B380C06A0>], 'Python'), {}. Результат: 9.333333333333334 
+ 2021-10-31 18:47:11.242209, Функция avg_all_lecturer c аргументами ([<__main__.Lecturer object at 0x00000263D771F610>, <__main__.Lecturer object at 0x00000263D771F6A0>], 'Python'), {}. Результат: 9.333333333333334 
